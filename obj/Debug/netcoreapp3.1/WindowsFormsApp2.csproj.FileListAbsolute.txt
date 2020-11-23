@@ -1,0 +1,15 @@
+C:\Users\Adam Škarda\source\repos\WindowsFormsApp2\bin\Debug\netcoreapp3.1\WindowsFormsApp2.exe
+C:\Users\Adam Škarda\source\repos\WindowsFormsApp2\bin\Debug\netcoreapp3.1\WindowsFormsApp2.deps.json
+C:\Users\Adam Škarda\source\repos\WindowsFormsApp2\bin\Debug\netcoreapp3.1\WindowsFormsApp2.runtimeconfig.json
+C:\Users\Adam Škarda\source\repos\WindowsFormsApp2\bin\Debug\netcoreapp3.1\WindowsFormsApp2.runtimeconfig.dev.json
+C:\Users\Adam Škarda\source\repos\WindowsFormsApp2\bin\Debug\netcoreapp3.1\WindowsFormsApp2.dll
+C:\Users\Adam Škarda\source\repos\WindowsFormsApp2\bin\Debug\netcoreapp3.1\WindowsFormsApp2.pdb
+C:\Users\Adam Škarda\source\repos\WindowsFormsApp2\obj\Debug\netcoreapp3.1\WindowsFormsApp2.csprojAssemblyReference.cache
+C:\Users\Adam Škarda\source\repos\WindowsFormsApp2\obj\Debug\netcoreapp3.1\WindowsFormsApp2.Form1.resources
+C:\Users\Adam Škarda\source\repos\WindowsFormsApp2\obj\Debug\netcoreapp3.1\WindowsFormsApp2.csproj.GenerateResource.cache
+C:\Users\Adam Škarda\source\repos\WindowsFormsApp2\obj\Debug\netcoreapp3.1\WindowsFormsApp2.AssemblyInfoInputs.cache
+C:\Users\Adam Škarda\source\repos\WindowsFormsApp2\obj\Debug\netcoreapp3.1\WindowsFormsApp2.AssemblyInfo.cs
+C:\Users\Adam Škarda\source\repos\WindowsFormsApp2\obj\Debug\netcoreapp3.1\WindowsFormsApp2.csproj.CoreCompileInputs.cache
+C:\Users\Adam Škarda\source\repos\WindowsFormsApp2\obj\Debug\netcoreapp3.1\WindowsFormsApp2.dll
+C:\Users\Adam Škarda\source\repos\WindowsFormsApp2\obj\Debug\netcoreapp3.1\WindowsFormsApp2.pdb
+C:\Users\Adam Škarda\source\repos\WindowsFormsApp2\obj\Debug\netcoreapp3.1\WindowsFormsApp2.genruntimeconfig.cache
