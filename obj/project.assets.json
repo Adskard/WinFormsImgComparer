@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Adam Škarda\\source\\repos\\WindowsFormsApp2\\Porovnávač obrázků.csproj",
+      "projectUniqueName": "C:\\Users\\Adam Škarda\\source\\repos\\WinFormsImgComparer\\Porovnávač obrázků.csproj",
       "projectName": "Porovnávač obrázků",
-      "projectPath": "C:\\Users\\Adam Škarda\\source\\repos\\WindowsFormsApp2\\Porovnávač obrázků.csproj",
+      "projectPath": "C:\\Users\\Adam Škarda\\source\\repos\\WinFormsImgComparer\\Porovnávač obrázků.csproj",
       "packagesPath": "C:\\Users\\Adam Škarda\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Adam Škarda\\source\\repos\\WindowsFormsApp2\\obj\\",
+      "outputPath": "C:\\Users\\Adam Škarda\\source\\repos\\WinFormsImgComparer\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\Adam Škarda\\AppData\\Roaming\\NuGet\\NuGet.Config",

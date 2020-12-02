@@ -12,20 +12,24 @@ namespace Image_Comparer
     {
         public Form2()
         {
+            
+            
+        }
+        public Form2(List<String> con)
+        {
             InitializeComponent();
             setImages();
         }
         private void setImages()
         {
-            foreach (String name in Form1.conflictingImages)
-            {
-                imageList1.Images.Add(Image.FromFile(name));
-            }
-            //imageList1.ImageSize = new Size(listView1.Size.Width / Form1.conflictingImages.Count, listView1.Size.Height / Form1.conflictingImages.Count);
+            Image img=default(Image);
+            ListViewItem item=default(ListViewItem);
             for (int i = 0; i < Form1.conflictingImages.Count; i++)
             {
-                ListViewItem img = new ListViewItem { ImageIndex = i, Text= Form1.conflictingImages[i]};
-                listView1.Items.Add(img);
+            img = Image.FromFile(Form1.conflictingImages[i]);
+            imageList1.Images.Add(img);
+            item = new ListViewItem { ImageIndex = i, Text= Form1.conflictingImages[i]};
+            listView1.Items.Add(item);
             }
         }
 
@@ -36,9 +40,9 @@ namespace Image_Comparer
             {
                 Form1.conflictingImages.Add(listView1.SelectedItems[i].Text);
             }
+            GC.Collect();
             this.DialogResult = DialogResult.OK;
             this.Close();
-            
         }
     }
 }

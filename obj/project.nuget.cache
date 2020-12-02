@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "Hu7U/+Y0PQMTfwY4JKpp2HLq/5Oot+oMAM2832ltmejkybd77sEp1iSXU5AJ6uXV7FKqM9qLRRnzHj2ID3RUxg==",
+  "dgSpecHash": "ha2FSyZvC8qlUGJGzET5zBywhjAe39ZKOvAIevP+5FfxzmyZPPjJEb/yKZPNriNuSvg6uxhmSC1Ux+rIfISSfg==",
   "success": true,
-  "projectFilePath": "C:\\Users\\Adam Škarda\\source\\repos\\WindowsFormsApp2\\Porovnávač obrázků.csproj",
+  "projectFilePath": "C:\\Users\\Adam Škarda\\source\\repos\\WinFormsImgComparer\\Porovnávač obrázků.csproj",
   "expectedPackageFiles": [],
   "logs": []
 }

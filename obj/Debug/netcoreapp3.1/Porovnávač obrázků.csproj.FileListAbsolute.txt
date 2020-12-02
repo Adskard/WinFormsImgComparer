@@ -14,3 +14,19 @@ C:\Users\Adam Škarda\source\repos\WindowsFormsApp2\obj\Debug\netcoreapp3.1\Poro
 C:\Users\Adam Škarda\source\repos\WindowsFormsApp2\obj\Debug\netcoreapp3.1\Porovnávač obrázků.genruntimeconfig.cache
 C:\Users\Adam Škarda\source\repos\WindowsFormsApp2\obj\Debug\netcoreapp3.1\Image_Comparer.Form1.resources
 C:\Users\Adam Škarda\source\repos\WindowsFormsApp2\obj\Debug\netcoreapp3.1\Image_Comparer.Form2.resources
+C:\Users\Adam Škarda\source\repos\WinFormsImgComparer\bin\Debug\netcoreapp3.1\Porovnávač obrázků.exe
+C:\Users\Adam Škarda\source\repos\WinFormsImgComparer\bin\Debug\netcoreapp3.1\Porovnávač obrázků.deps.json
+C:\Users\Adam Škarda\source\repos\WinFormsImgComparer\bin\Debug\netcoreapp3.1\Porovnávač obrázků.runtimeconfig.json
+C:\Users\Adam Škarda\source\repos\WinFormsImgComparer\bin\Debug\netcoreapp3.1\Porovnávač obrázků.runtimeconfig.dev.json
+C:\Users\Adam Škarda\source\repos\WinFormsImgComparer\bin\Debug\netcoreapp3.1\Porovnávač obrázků.dll
+C:\Users\Adam Škarda\source\repos\WinFormsImgComparer\bin\Debug\netcoreapp3.1\Porovnávač obrázků.pdb
+C:\Users\Adam Škarda\source\repos\WinFormsImgComparer\obj\Debug\netcoreapp3.1\Porovnávač obrázků.csprojAssemblyReference.cache
+C:\Users\Adam Škarda\source\repos\WinFormsImgComparer\obj\Debug\netcoreapp3.1\Image_Comparer.Form1.resources
+C:\Users\Adam Škarda\source\repos\WinFormsImgComparer\obj\Debug\netcoreapp3.1\Image_Comparer.Form2.resources
+C:\Users\Adam Škarda\source\repos\WinFormsImgComparer\obj\Debug\netcoreapp3.1\Porovnávač obrázků.csproj.GenerateResource.cache
+C:\Users\Adam Škarda\source\repos\WinFormsImgComparer\obj\Debug\netcoreapp3.1\Porovnávač obrázků.AssemblyInfoInputs.cache
+C:\Users\Adam Škarda\source\repos\WinFormsImgComparer\obj\Debug\netcoreapp3.1\Porovnávač obrázků.AssemblyInfo.cs
+C:\Users\Adam Škarda\source\repos\WinFormsImgComparer\obj\Debug\netcoreapp3.1\Porovnávač obrázků.csproj.CoreCompileInputs.cache
+C:\Users\Adam Škarda\source\repos\WinFormsImgComparer\obj\Debug\netcoreapp3.1\Porovnávač obrázků.dll
+C:\Users\Adam Škarda\source\repos\WinFormsImgComparer\obj\Debug\netcoreapp3.1\Porovnávač obrázků.pdb
+C:\Users\Adam Škarda\source\repos\WinFormsImgComparer\obj\Debug\netcoreapp3.1\Porovnávač obrázků.genruntimeconfig.cache
